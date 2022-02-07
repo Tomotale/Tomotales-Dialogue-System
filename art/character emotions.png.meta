@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 97cfa900585b815468e77a64238ce0d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 107547080902481982
+    second: character emotions_0
+  - first:
+      213: -1835497739361321075
+    second: character emotions_1
+  - first:
+      213: 3027262220283519000
+    second: character emotions_2
+  - first:
+      213: -3184181699168026313
+    second: character emotions_3
+  - first:
+      213: -6384985595172482982
+    second: character emotions_4
+  - first:
+      213: -5677454194650423853
+    second: character emotions_5
+  - first:
+      213: -6656521062147042486
+    second: character emotions_6
+  - first:
+      213: 4083500177792155984
+    second: character emotions_7
+  - first:
+      213: 5223367228970531395
+    second: character emotions_8
+  - first:
+      213: 1734770265201266555
+    second: character emotions_9
+  - first:
+      213: 204441861416620469
+    second: character emotions_10
+  - first:
+      213: 2335825170765508494
+    second: character emotions_11
+  - first:
+      213: -3482713985166377229
+    second: character emotions_12
+  - first:
+      213: -3375701341447338686
+    second: character emotions_13
+  - first:
+      213: 3637835139970790069
+    second: character emotions_14
+  - first:
+      213: 7855635618702802950
+    second: character emotions_15
+  - first:
+      213: -3705595515611152623
+    second: character emotions_16
+  - first:
+      213: 7985394741627359803
+    second: character emotions_17
+  - first:
+      213: 8683660985580797647
+    second: character emotions_18
+  - first:
+      213: -7000270531809858202
+    second: character emotions_19
+  - first:
+      213: 916864248080369348
+    second: character emotions_20
+  - first:
+      213: 5762449817491413428
+    second: character emotions_21
+  - first:
+      213: -7087769686945841559
+    second: character emotions_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character emotions_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1829b00ebdebcc44fb9aae957270b7cb
+      internalID: 107547080902481982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e8a1c5088f65a42b4a57e50cfe0582
+      internalID: -1835497739361321075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e056e6f678302b146baa7011a4e5382b
+      internalID: 3027262220283519000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb84ffbdcb693a418271cd23cc242d9
+      internalID: -3184181699168026313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 468
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b75ff28d631e084abf24b39ae52e9ed
+      internalID: -6384985595172482982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 468
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124149f3e03c910479adb6199f861b40
+      internalID: -5677454194650423853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 468
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d5f2bfe383434ebe94a4e7108ccb7
+      internalID: -6656521062147042486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 468
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc194e93f4fb1a4d92aeccc2a05f1c3
+      internalID: 4083500177792155984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 468
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c398e1fbfe61f4444bf0928e7520362d
+      internalID: 5223367228970531395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d820c8013a6c34fb9b6e3a632d10f7
+      internalID: 1734770265201266555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 445
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5ad8353db1f14d83c1754f69287b7
+      internalID: 204441861416620469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 445
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d429f368096b448c344f5ea6b3085
+      internalID: 2335825170765508494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 445
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6463218076857da4db427d5d25d25031
+      internalID: -3482713985166377229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 445
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51deea02ee080fa48acae1d83461239c
+      internalID: -3375701341447338686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 445
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbfeeccc60109343a0f5f616c949d49
+      internalID: 3637835139970790069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 445
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d282877d1c6854bbcc2cc79662319a
+      internalID: 7855635618702802950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b111e87fda71a44bfb4d2ea97e390c
+      internalID: -3705595515611152623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513ac71caf3c7f48b37cb16f1178887
+      internalID: 7985394741627359803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec66011f684d6141a4d46a6bdb8b967
+      internalID: 8683660985580797647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b3f9999a5df594fbd5895fdc2d9b33
+      internalID: -7000270531809858202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b802dc15434bf4f97338aaf38eefce
+      internalID: 916864248080369348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f6af3fb35a31d4fb8025a793135c28
+      internalID: 5762449817491413428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character emotions_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0709392963450f1488b4d7c5310c273a
+      internalID: -7087769686945841559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
