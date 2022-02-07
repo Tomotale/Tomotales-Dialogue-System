@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45ed60f451d2cd4fa00e1d7df1e093a, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - name: Jeff
+    diolouge: Hey, whats up.
+    icon: {fileID: -3184181699168026313, guid: 97cfa900585b815468e77a64238ce0d2, type: 3}
+    backgroundImage: {fileID: 0}
+    isPlayer: 1
+    hasBackground: 0
+    playerOneActive: 1
+    playerTwoActive: 0
+    talkSound: {fileID: 8300000, guid: 241d542e90986934ab8afca2ad591210, type: 3}
+  - name: Blue
+    diolouge: Nothin Much, how about you?
+    icon: {fileID: 204441861416620469, guid: 97cfa900585b815468e77a64238ce0d2, type: 3}
+    backgroundImage: {fileID: 0}
+    isPlayer: 0
+    hasBackground: 0
+    playerOneActive: 1
+    playerTwoActive: 1
+    talkSound: {fileID: 8300000, guid: a1c5e761403b007419db3e0b8864b8c7, type: 3}
+  end: 1
+  sceneToChangeTo: 
+  choices:
+  - choiceName: Nothing Much
+    associatedDialogue: {fileID: 11400000, guid: 6f41ca2e10cff8d47970a28888340443,
+      type: 2}
+  - choiceName: FUCK YOU
+    associatedDialogue: {fileID: 11400000, guid: 6aeb0291c13e8d14c80812a80fa1ee5e,
+      type: 2}

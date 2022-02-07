@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45ed60f451d2cd4fa00e1d7df1e093a, type: 3}
+  m_Name: 1-2-1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - name: Jeff
+    diolouge: Sorry
+    icon: {fileID: 5223367228970531395, guid: 97cfa900585b815468e77a64238ce0d2, type: 3}
+    backgroundImage: {fileID: 0}
+    isPlayer: 1
+    hasBackground: 0
+    playerOneActive: 1
+    playerTwoActive: 1
+    talkSound: {fileID: 8300000, guid: 241d542e90986934ab8afca2ad591210, type: 3}
+  end: 2
+  sceneToChangeTo: 
+  choices: []
